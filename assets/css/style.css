@@ -35,10 +35,12 @@ nav {
 h2 {
     color: #4aaaa5;
 }
-.col-sm-3 {
-    text-align: center;
-}
+
 .caption {
     position: relative;
     bottom: 20px;
+}
+img {
+    display: block;
+    max-width: 100%;
 }
